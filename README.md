@@ -15,6 +15,16 @@ This template provides a streamlined foundation for building Model Context Proto
 - Minimal dependencies
 - **Embedded MCP specifications and documentation** for improved AI tool understanding
 
+## Cursor Rules Integration
+
+This project uses Cursor Rules for improved AI coding assistance, with patterns from [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules).
+
+- **Clean Code Guidelines**: Built-in clean code rules help maintain consistency and quality
+- **Enhanced AI Understanding**: Rules provide context that helps AI assistants generate better code
+- **Standardized Patterns**: Follow established best practices for MCP server implementation
+
+Cursor Rules help both AI coding assistants and human developers maintain high code quality standards and follow best practices.
+
 ## Integrated MCP Documentation
 
 This template includes comprehensive MCP documentation directly in the project:
